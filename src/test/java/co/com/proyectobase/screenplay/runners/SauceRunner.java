@@ -10,6 +10,6 @@ import org.junit.runner.RunWith;
         glue={"co.com.proyectobase.screenplay.stepdefinitions","co.com.proyectobase.screenplay.hooks"},
         snippets= CucumberOptions.SnippetType.CAMELCASE
 )
-public class GoogleRunner {
+public class SauceRunner {
 
 }

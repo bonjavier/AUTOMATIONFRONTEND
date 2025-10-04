@@ -7,7 +7,7 @@ import net.serenitybdd.screenplay.actions.Open;
 public class NavigateTo {
 
     public static Performable theSwagPage(){
-        return Task.where("{0} opens the google page",
+        return Task.where("{0} opens the swag labs page",
                 Open.browserOn().thePageNamed("LoginSwagLabs.page")
                 );
     }
