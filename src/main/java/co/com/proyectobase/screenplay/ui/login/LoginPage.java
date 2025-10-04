@@ -1,9 +1,9 @@
-package co.com.proyectobase.screenplay.ui;
+package co.com.proyectobase.screenplay.ui.login;
 
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class SaucePage {
+public class LoginPage {
 
     public static final Target INPUT_USERNAME = Target.the("input username")
             .located(By.name("user-name"));
