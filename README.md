@@ -268,5 +268,6 @@ Para dudas o problemas:
 - 📋 Consultar este README para comandos específicos
 
 ---
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/a2a60aee-2a86-4a36-b162-880853984c33" />
 
-**Desarrollado con ❤️ para automatización de pruebas de calidad**
+**Desarrollado para automatización de pruebas de calidad**
